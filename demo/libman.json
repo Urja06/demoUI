@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "src/assets/js/jquery/"
+    },
+    {
+      "library": "imageviewer@1.1.0",
+      "destination": "src/assets/js/jquery/imageviewer/"
+    }
+  ]
+}
